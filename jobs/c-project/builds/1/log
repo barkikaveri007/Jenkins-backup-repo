@@ -1,0 +1,29 @@
+Started by user [8mha:////4ElZhWCiQeg6sh/fI0uic0qw00VPVSDuM+t6VXgwhwMIAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYe/dLi1CL97MSy1KJMALKN0WnBAAAA[0mKaveri N B
+Running as SYSTEM
+Building remotely on [8mha:////4JOuwhG6R9QxN4f9V3jl7QjFAMFbY5LzWE2k/vf4bEYTAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQi/eKcxLJUhfg8oHMNAY867MHLAAAA[0mslave _node1 (label1) in workspace /home/ubuntu/workspace/c-project
+The recommended git tool is: NONE
+using credential b23723f7-13c1-4b37-8858-4118ccde279e
+Cloning the remote Git repository
+Cloning repository https://github.com/barkikaveri007/c-project.git
+ > git init /home/ubuntu/workspace/c-project # timeout=10
+Fetching upstream changes from https://github.com/barkikaveri007/c-project.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+using GIT_SSH to set credentials 
+Verifying host key using known hosts file
+[8mha:AAAAwB+LCAAAAAAAAP9djLENwjAQRY8gGIAS0VE77ihAVDQgRVAwQRSMfYl1tuwLStZgDWgYgmEo2IFE6fjN+19fes8vTGKAhakv0VFaOIrOqnTfehUsUnV0rFbbx2t79+8EkgNMrSLNJoNxHSzDLCvzWy5tTlqeOSDpTRNg/qfbDexlMGSUADS+Kx+Gk2H2cS2lt7VGimmpqOqJTmpkUVhUxHI53KKTcrdFjEYYF1lUqhU3FfCKRc7o6AcdrEU/1AAAAA==[0mYou're using 'Known hosts file' strategy to verify ssh host keys, but your known_hosts file does not exist, please go to 'Manage Jenkins' -> 'Security' -> 'Git Host Key Verification Configuration' and configure host key verification.
+ > git fetch --tags --force --progress -- https://github.com/barkikaveri007/c-project.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/barkikaveri007/c-project.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision ea27ead7f10c47a638edbac94177737b503e137a (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ea27ead7f10c47a638edbac94177737b503e137a # timeout=10
+Commit message: "Update k2"
+First time build. Skipping changelog.
+[c-project] $ /bin/sh -xe /tmp/jenkins7138750016701483813.sh
++ ./abc.exe
+Enter three different numbers: 
+0.00 is the largest number.Enter an integer: Factorial of 0 = 1
+Finished: SUCCESS

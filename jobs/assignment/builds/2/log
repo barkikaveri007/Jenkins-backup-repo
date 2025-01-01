@@ -1,0 +1,7 @@
+Started by user [8mha:////4ElZhWCiQeg6sh/fI0uic0qw00VPVSDuM+t6VXgwhwMIAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYe/dLi1CL97MSy1KJMALKN0WnBAAAA[0mKaveri N B
+Running as SYSTEM
+Building remotely on [8mha:////4JOuwhG6R9QxN4f9V3jl7QjFAMFbY5LzWE2k/vf4bEYTAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQi/eKcxLJUhfg8oHMNAY867MHLAAAA[0mslave _node1 (label1) in workspace /home/ubuntu/workspace/assignment
+[assignment] $ /bin/sh -xe /tmp/jenkins18277640760648847908.sh
++ hostname
+ip-172-31-21-29
+Finished: SUCCESS
