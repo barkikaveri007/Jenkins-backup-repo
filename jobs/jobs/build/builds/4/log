@@ -1,0 +1,8 @@
+Started by user [8mha:////4ElZhWCiQeg6sh/fI0uic0qw00VPVSDuM+t6VXgwhwMIAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYe/dLi1CL97MSy1KJMALKN0WnBAAAA[0mKaveri N B
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/build
+[build] $ /bin/sh -xe /tmp/jenkins547952728288034034.sh
++ mkdir kav
+mkdir: cannot create directory ‘kav’: File exists
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

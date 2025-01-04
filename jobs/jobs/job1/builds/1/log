@@ -1,0 +1,8 @@
+Started by user [8mha:////4BN5L2NS00deSIxUmUaynGHUw+roQesb58E6uEtZtPt8AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYe/dLi1CL97MSy1KJMALKN0WnBAAAA[0mKaveri N B
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/job1
+[job1] $ /bin/sh -xe /tmp/jenkins1339530579721252933.sh
++ exit 1
+Build step 'Execute shell' marked build as failure
+Triggering a new build of [8mha:////4HkYTcS59ZSR4bvF6sc0paJO7UtxsYxb41KvFmWQn2R8AAAAlB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/az8JBA20gcA5LmiNr8AAAA=[0mjob2
+Finished: FAILURE
